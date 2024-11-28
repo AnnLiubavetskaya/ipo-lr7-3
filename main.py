@@ -1,17 +1,17 @@
 import json
-
+#test
 with open("cars.json","r",encoding= "utf-8") as file :
     data = json.load(file)
 
 # Собираем все существующие ID
 our_ids = sorted([item["id"] for item in data])
 current_id = our_ids[-1:][0]+ 1
-
+#tt
 #current_id = our_ids[:-1]+1
-
-
+#tt
+#ttt
 count = 0
-
+#test
 while True:
     print("""
        1: Вывести все записи n
