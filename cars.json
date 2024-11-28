@@ -1,0 +1,38 @@
+
+[
+    {
+      "id": 1,
+      "name": "Мустанг",
+      "manufacturer": "МТЗ",
+      "is_petrol": true,
+      "tank_volume": 45
+    },
+    {
+      "id": 2,
+      "name": "Хендай Соната",
+      "manufacturer": "Хендай мотор компани",
+      "is_petrol": true,
+      "tank_volume": 180
+    },
+    {
+      "id": 3,
+      "name": "Ниссан Альмера",
+      "manufacturer": "Ниссан АВТОВАЗ",
+      "is_petrol": true,
+      "tank_volume": 55
+    },
+    {
+      "id": 4,
+      "name": "Мерседес бенц",
+      "manufacturer": "Мерседес",
+      "is_petrol": true,
+      "tank_volume": 50
+    },
+    {
+      "id": 5,
+      "name": "Хендай акцент",
+      "manufacturer": "Хендай",
+      "is_petrol": true,
+      "tank_volume": 50
+    }
+  ]
