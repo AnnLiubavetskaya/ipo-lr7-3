@@ -75,7 +75,7 @@ def new():
     with open("cars.json", 'w', encoding='utf-8') as output_file: #в переменную output 
         json.dump(data, output_file, ensure_ascii=False, indent=1) # dump куда что раскодировка отступ между
     print("Новая машина добавлена.")
-        
+    current_id += 1 
     count += 1
 
 
